@@ -1,0 +1,10 @@
+{
+  "name": "mocha-mockup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hamish Hutchings <moredhel@aoeu.me>",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^3.2.0"
+  }
+}
